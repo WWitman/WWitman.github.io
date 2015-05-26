@@ -12,7 +12,7 @@ title: Quick tour of Apigee API Studio
 
 ***
 
-# API Studio
+# Welcome to API Studio!
 
 ![alt text](../images/studio-annotated.png)
 
@@ -44,7 +44,7 @@ Let's you create new projects and import and export stuff. See [About the Projec
 
 ![alt text](../images/project-menu.png)
 
-# <a name="docs"></a>API docs automatically!
+# <a name="docs"></a>Generate API docs automatically
 
 As mentioned before, as you develop your API model in the editor, Swagger Studio generates docs for you automatically. The code and the docs are one. Nothing ever gets out of sync.
 
