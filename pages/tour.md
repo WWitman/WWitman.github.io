@@ -65,7 +65,7 @@ If you want to point your API to a real backend, then change these values to ref
 
 # <a name="try"></a>Try stuff out
 
-As expected, the **Try this operation** button lets you run your API directly from the Studio. 
+The **Try this operation** button lets you run your API directly from the Studio. 
 
 In this picture, we "try" the `/hello` path, and the Studio returns a simulated response.
 
